@@ -1,1 +1,1 @@
-# STM32L476-Lora-PingPong
+# STM32L476RG-Lora-PingPong
